@@ -1,178 +1,188 @@
 <div align="center">
 
-# 👋 Hi, I'm Rohan Shinde
+# Rohan Shinde
 
-### ☕ Java Developer • Spring Boot • REST APIs • SQL
+### Java Developer · Spring Boot · REST APIs · SQL
 
-**Building backend systems that are secure, scalable & practical.**
+**Building secure, scalable and production-oriented backend applications.**
 
-<p>
-  <a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rohanshinde0702@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:rohanshinde0702@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an **MCA graduate and Java Developer** focused on building backend applications using **Core Java, Spring Boot, REST APIs, Spring Security, JWT and MySQL**.
+I'm an **MCA graduate and Java Developer** focused on backend development with **Core Java, Spring Boot, REST APIs, Spring Security, JWT and MySQL**.
 
-I enjoy turning ideas into working software — from designing APIs and database interactions to implementing authentication and integrating frontend applications.
+I enjoy designing APIs, implementing secure authentication, working with databases and building complete applications that solve real-world problems.
 
-* 🎓 MCA — Trinity Academy of Engineering, Pune
-* ☕ Java & Spring Boot enthusiast
-* 🔐 Interested in secure backend development
-* 🧩 Strong foundation in OOP, DBMS & problem solving
-* 🚀 Currently exploring advanced backend development & microservices
-* 📍 Pune, Maharashtra, India
+```text
+🎓 MCA Graduate
+☕ Java & Spring Boot Developer
+🔐 Backend & API Development
+🗄️ SQL / MySQL
+⚛️ React.js
+📍 Pune, Maharashtra
+```
 
 ---
 
-## ⚡ Tech Arsenal
+# ⚡ Technical Stack
 
-### Backend
+<div align="center">
 
-`Java` `Spring` `Spring Boot` `Spring MVC` `REST APIs` `JDBC` `Hibernate/JPA`
+### ☕ Backend
 
-### Security
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
 
-`Spring Security` `JWT` `Authentication` `Authorization`
+### 🗄️ Database
 
-### Database
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 
-`MySQL` `SQL`
+### 🎨 Frontend
 
-### Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-`React.js` `JavaScript` `HTML` `CSS`
+### 🛠️ Tools
 
-### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-`Git` `GitHub` `Maven` `Postman` `IntelliJ IDEA` `VS Code`
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+## 💬 Real-Time Chat Application
 
-### 💬 Real-Time Chat Application
+> A full-stack real-time messaging application built around a Spring Boot backend.
 
-A real-time communication platform supporting one-to-one and group messaging.
+**Tech:** `Java` `Spring Boot` `WebSocket/STOMP` `React.js` `MySQL` `Spring Security` `JWT`
 
-**Built with**
+### Highlights
 
-`Java` `Spring Boot` `WebSocket/STOMP`
-`React.js` `MySQL` `Spring Security` `JWT`
-
-**Highlights**
-
-* ⚡ Real-time messaging
-* 🔐 JWT authentication & authorization
-* 🔌 REST API integration
-* 💾 Message persistence
+* ⚡ Real-time one-to-one and group messaging
+* 🔐 Authentication & authorization using Spring Security + JWT
+* 🔌 REST APIs for user and messaging operations
+* 💾 Persistent message storage using MySQL
 * 🟢 Online/offline status tracking
-* 🖥️ React.js frontend
+* ⚛️ React.js frontend integrated with Spring Boot
 
-</td>
+---
 
-<td width="50%">
+## 🤖 AI-Based Email Spam Detection System
 
-### 🤖 AI Email Spam Detection
+> A full-stack application combining Java backend development with machine-learning prediction.
 
-A full-stack application combining a Java backend with a machine-learning prediction service.
+**Tech:** `Java` `Spring Boot` `React.js` `Python` `FastAPI` `Scikit-learn` `MySQL`
 
-**Built with**
+### Highlights
 
-`Java` `Spring Boot` `React.js`
-`Python` `FastAPI` `Scikit-learn` `MySQL`
-
-**Highlights**
-
-* 📩 Email classification
-* 🧠 ML-powered prediction
+* 📩 Email submission through Spring Boot REST API
+* 🧠 Machine-learning based spam classification
+* 🔗 Spring Boot ↔ FastAPI service integration
 * 📊 Confidence score reporting
-* 🔗 Spring Boot + FastAPI integration
-* 💾 Prediction history
-* 🖥️ React.js interface
-
-</td>
-</tr>
-</table>
+* 💾 Prediction history stored in MySQL
+* ⚛️ React.js frontend for user interaction
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-🏅 **Smart India Hackathon** — Cleared Internal Round
-
-©️ **Agro Analytics Platform** — Copyright registration secured
-
-💡 **Genomic Predictive Model** — Patent application in process
-
-🔬 **Avishkar State Level Competition** — Represented SPPU in Research & Innovation
+| Achievement                 | Recognition                     |
+| --------------------------- | ------------------------------- |
+| 🏅 Smart India Hackathon    | Cleared Internal Round          |
+| ©️ Agro Analytics Platform  | Copyright Registration          |
+| 💡 Genomic Predictive Model | Patent Application in Process   |
+| 🔬 Avishkar                 | Represented SPPU at State Level |
 
 ---
 
-## 🎯 What I'm Working Toward
+# 📚 Currently Learning
 
 ```text
-Java
-  └── Core Java
-       ├── OOP
-       ├── Collections
-       ├── Multithreading
-       └── Exception Handling
-             ↓
 Spring Boot
-  ├── REST APIs
-  ├── Spring Security
-  ├── JWT
-  └── JPA / Hibernate
-             ↓
-Database
-  └── SQL / MySQL
-             ↓
-Advanced Backend
-  ├── Microservices
-  ├── System Design
-  └── Cloud & Scalable Applications
+    ↓
+REST API Development
+    ↓
+Spring Security + JWT
+    ↓
+JPA / Hibernate
+    ↓
+Microservices
+    ↓
+System Design
+    ↓
+Cloud & Scalable Applications
 ```
 
 ---
 
-## 📈 Developer Mindset
-
-> **Write clean code. Build useful products. Keep learning.**
-
-I believe good software is not just about making something work — it's about making it **maintainable, secure and understandable**.
-
----
+# 💡 Developer Philosophy
 
 <div align="center">
 
-### 🤝 Let's Connect
+### "Build it. Understand it. Improve it."
 
-**Open to Java Developer / Backend Developer opportunities**
+I believe good software should be:
+
+**Clean · Secure · Maintainable · Scalable**
+
+</div>
+
+---
+
+# 🎓 Education
+
+**Master of Computer Applications (MCA)**
+Trinity Academy of Engineering, Pune · SPPU
+**CGPA: 8.81**
+
+**Bachelor of Science in Computer Science**
+D.H.B. Soni College, Solapur
+**CGPA: 8.70**
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to Java Developer & Backend Developer opportunities
 
 <a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
 <img src="https://img.shields.io/badge/LinkedIn-Rohan%20Shinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:rohanshinde0702@gmail.com">
-<img src="https://img.shields.io/badge/Email-rohanshinde0702%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/><br/>
 
-<br><br>
+📧 **[rohanshinde0702@gmail.com](mailto:rohanshinde0702@gmail.com)**
 
-⭐ **If you find my projects interesting, feel free to explore my repositories.**
+📍 **Pune, Maharashtra, India**
+
+<br/>
+
+⭐ If you find my repositories useful, consider giving them a star!
 
 </div>
