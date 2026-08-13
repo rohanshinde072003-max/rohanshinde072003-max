@@ -1,124 +1,178 @@
+<div align="center">
+
 # 👋 Hi, I'm Rohan Shinde
 
-### Java Developer | Spring Boot | REST APIs | SQL | React.js
+### ☕ Java Developer • Spring Boot • REST APIs • SQL
 
-I'm an MCA graduate and aspiring Java Developer with hands-on experience in **Core Java, Spring Boot, REST APIs, Spring Security, JWT, MySQL, and React.js**.
+**Building backend systems that are secure, scalable & practical.**
 
-I enjoy building backend applications, developing RESTful services, solving programming problems, and learning modern software development practices.
+<p>
+  <a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rohanshinde0702@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-* Java
-* SQL
-* JavaScript
-
-**Backend**
-
-* Core Java
-* Spring
-* Spring Boot
-* Spring MVC
-* REST APIs
-* JDBC
-* Hibernate/JPA
-* Spring Security
-* JWT
-
-**Frontend**
-
-* HTML
-* CSS
-* React.js
-
-**Database**
-
-* MySQL
-* SQL
-
-**Tools**
-
-* Git
-* GitHub
-* Maven
-* Postman
-* IntelliJ IDEA
-* VS Code
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 About Me
+
+I'm an **MCA graduate and Java Developer** focused on building backend applications using **Core Java, Spring Boot, REST APIs, Spring Security, JWT and MySQL**.
+
+I enjoy turning ideas into working software — from designing APIs and database interactions to implementing authentication and integrating frontend applications.
+
+* 🎓 MCA — Trinity Academy of Engineering, Pune
+* ☕ Java & Spring Boot enthusiast
+* 🔐 Interested in secure backend development
+* 🧩 Strong foundation in OOP, DBMS & problem solving
+* 🚀 Currently exploring advanced backend development & microservices
+* 📍 Pune, Maharashtra, India
+
+---
+
+## ⚡ Tech Arsenal
+
+### Backend
+
+`Java` `Spring` `Spring Boot` `Spring MVC` `REST APIs` `JDBC` `Hibernate/JPA`
+
+### Security
+
+`Spring Security` `JWT` `Authentication` `Authorization`
+
+### Database
+
+`MySQL` `SQL`
+
+### Frontend
+
+`React.js` `JavaScript` `HTML` `CSS`
+
+### Tools
+
+`Git` `GitHub` `Maven` `Postman` `IntelliJ IDEA` `VS Code`
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
 
 ### 💬 Real-Time Chat Application
 
-A real-time one-to-one and group messaging application built with:
+A real-time communication platform supporting one-to-one and group messaging.
 
-**Java | Spring Boot | WebSocket/STOMP | React.js | MySQL | Spring Security | JWT**
+**Built with**
 
-* Real-time messaging using WebSocket/STOMP
-* Authentication and authorization using Spring Security & JWT
-* REST APIs for user and messaging management
-* MySQL-based message persistence
-* Online/offline status tracking
-* React.js frontend integrated with Spring Boot APIs
+`Java` `Spring Boot` `WebSocket/STOMP`
+`React.js` `MySQL` `Spring Security` `JWT`
 
-### 🤖 AI-Based Email Spam Detection System
+**Highlights**
 
-**Java | Spring Boot | React.js | Python | FastAPI | Scikit-learn | MySQL**
+* ⚡ Real-time messaging
+* 🔐 JWT authentication & authorization
+* 🔌 REST API integration
+* 💾 Message persistence
+* 🟢 Online/offline status tracking
+* 🖥️ React.js frontend
 
-* Spring Boot REST API for email submissions
-* Python/FastAPI prediction service
-* Machine learning-based spam classification
-* Confidence score reporting
-* React.js frontend
-* MySQL prediction history
+</td>
 
----
+<td width="50%">
 
-## 🎓 Education
+### 🤖 AI Email Spam Detection
 
-**Master of Computer Applications (MCA)**
-Trinity Academy of Engineering, Pune
-SPPU | CGPA: 8.81
+A full-stack application combining a Java backend with a machine-learning prediction service.
 
-**Bachelor of Science in Computer Science**
-D.H.B. Soni College, Solapur
-CGPA: 8.70
+**Built with**
+
+`Java` `Spring Boot` `React.js`
+`Python` `FastAPI` `Scikit-learn` `MySQL`
+
+**Highlights**
+
+* 📩 Email classification
+* 🧠 ML-powered prediction
+* 📊 Confidence score reporting
+* 🔗 Spring Boot + FastAPI integration
+* 💾 Prediction history
+* 🖥️ React.js interface
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements
 
-* Cleared **Smart India Hackathon (SIH) Internal Round**
-* Secured copyright registration for **Agro Analytics Platform**
-* Patent application in process for **Genomic Predictive Model for Endometrial Cancer**
-* Represented SPPU at **Avishkar State Level Research and Innovation Competition**
+🏅 **Smart India Hackathon** — Cleared Internal Round
+
+©️ **Agro Analytics Platform** — Copyright registration secured
+
+💡 **Genomic Predictive Model** — Patent application in process
+
+🔬 **Avishkar State Level Competition** — Represented SPPU in Research & Innovation
 
 ---
 
-## 📚 Currently Learning
+## 🎯 What I'm Working Toward
 
-* Advanced Java
-* Spring Boot
-* Microservices
-* REST API Development
-* Data Structures & Algorithms
-* System Design
+```text
+Java
+  └── Core Java
+       ├── OOP
+       ├── Collections
+       ├── Multithreading
+       └── Exception Handling
+             ↓
+Spring Boot
+  ├── REST APIs
+  ├── Spring Security
+  ├── JWT
+  └── JPA / Hibernate
+             ↓
+Database
+  └── SQL / MySQL
+             ↓
+Advanced Backend
+  ├── Microservices
+  ├── System Design
+  └── Cloud & Scalable Applications
+```
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Developer Mindset
 
-**LinkedIn:**
-https://www.linkedin.com/in/rohan-shinde-507a9b23a
+> **Write clean code. Build useful products. Keep learning.**
 
-**Email:**
-[rohanshinde0702@gmail.com](mailto:rohanshinde0702@gmail.com)
+I believe good software is not just about making something work — it's about making it **maintainable, secure and understandable**.
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
+### 🤝 Let's Connect
+
+**Open to Java Developer / Backend Developer opportunities**
+
+<a href="https://www.linkedin.com/in/rohan-shinde-507a9b23a">
+<img src="https://img.shields.io/badge/LinkedIn-Rohan%20Shinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rohanshinde0702@gmail.com">
+<img src="https://img.shields.io/badge/Email-rohanshinde0702%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+⭐ **If you find my projects interesting, feel free to explore my repositories.**
+
+</div>
